@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smarthomelab.com/blog-smarthomelab/sitemap.xml
